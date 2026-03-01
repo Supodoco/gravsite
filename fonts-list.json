@@ -8,8 +8,8 @@
   {"name": "Mon Amour One",   "family": "'MonAmourOne', cursive"},
   {"name": "Round Script",    "family": "'RoundScript', cursive"},
   {"name": "Xiomara",         "family": "'Xiomara', cursive"},
-  {"name": "Anastasia",       "family": "'Anastasia', cursive"},
-  {"name": "Carolina",        "family": "'Carolina', cursive"},
+  {"name": "Anastasia",       "family": "'Anastasia', cursive",  "sizeFactor": 1.35},
+  {"name": "Carolina",        "family": "'Carolina', cursive",  "sizeFactor": 1.35},
   {"name": "Cassandra",       "family": "'Cassandra', cursive"},
 
   {"name": "Adventure Indiana","family": "'AdventureIndiana', cursive"},
@@ -31,9 +31,7 @@
   {"name": "Cyrillic Old",    "family": "'CyrillicOld', serif"},
   {"name": "Corrida",         "family": "'Corrida', serif"},
   {"name": "DS Arabic",       "family": "'DSArabic', serif"},
-  {"name": "DS Arabic",
-  "family": "'DSArabic', serif",
-  "sizeFactor": 1.35 },
+  {"name": "DS Arabic",       "family": "'DSArabic', serif",  "sizeFactor": 1.35 },
   {"name": "JakobCTT",        "family": "'JakobCTT', serif"},
 
   {"name": "Helvetica Neue Thin",          "family": "'HelveticaNeue', sans-serif", "weight": 100},

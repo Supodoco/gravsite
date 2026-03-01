@@ -29,3 +29,19 @@
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Wolgadeutsche';
+  src: url('fonts/ofont.ru_Wolgadeutsche.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ebbe';
+  src: url('fonts/ofont.ru_Ebbe.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

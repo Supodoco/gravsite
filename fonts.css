@@ -45,3 +45,53 @@
   font-style: normal;
   font-display: swap;
 }
+
+/* Новые шрифты ↓ */
+
+@font-face {
+  font-family: 'Adventure Indiana';
+  src: url('fonts/ofont.ru_Adventure Indiana.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Maratype';
+  src: url('fonts/ofont.ru_Maratype.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plup';
+  src: url('fonts/ofont.ru_Plup.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Soledago';
+  src: url('fonts/ofont.ru_Soledago.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SouthGhetto';
+  src: url('fonts/ofont.ru_SouthGhetto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sriracha';
+  src: url('fonts/ofont.ru_Sriracha.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

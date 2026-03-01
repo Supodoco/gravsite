@@ -225,7 +225,7 @@
 /* Новые шрифты Helvetica Neue */
 
 @font-face {
-  font-family: 'HelveticaNeueThin';
+  font-family: 'HelveticaNeue';
   src: url('fonts/ofont.ru_Helvetica Neue Thin.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
@@ -233,7 +233,7 @@
 }
 
 @font-face {
-  font-family: 'HelveticaNeueThinItalic';
+  font-family: 'HelveticaNeue';
   src: url('fonts/ofont.ru_Helvetica Neue Thin Italic.ttf') format('truetype');
   font-weight: 100;
   font-style: italic;
@@ -241,7 +241,7 @@
 }
 
 @font-face {
-  font-family: 'HelveticaNeueMedium';
+  font-family: 'HelveticaNeue';
   src: url('fonts/ofont.ru_Helvetica Neue Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
@@ -249,7 +249,7 @@
 }
 
 @font-face {
-  font-family: 'HelveticaNeueMediumItalic';
+  font-family: 'HelveticaNeue';
   src: url('fonts/ofont.ru_Helvetica Neue Medium Italic.ttf') format('truetype');
   font-weight: 500;
   font-style: italic;

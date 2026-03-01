@@ -3,7 +3,7 @@
   {"name": "Bohema Pink",     "family": "'BohemaPink', cursive"},
   {"name": "Ebbe",            "family": "'Ebbe', cursive"},
   {"name": "Sriracha",        "family": "'Sriracha', cursive"},
-  {"name": "LavanderiaC",     "family": "'LavanderiaC', cursive"},
+  {"name": "LavanderiaC",     "family": "'LavanderiaC', cursive",  "sizeFactor": 1.15},
   {"name": "Nikoleta",        "family": "'Nikoleta', cursive"},
   {"name": "Mon Amour One",   "family": "'MonAmourOne', cursive"},
   {"name": "Round Script",    "family": "'RoundScript', cursive"},

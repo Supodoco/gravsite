@@ -1,5 +1,13 @@
 @font-face {
-  font-family: 'KontrabandaTest';
+  font-family: 'BohemaPink';
+  src: url('fonts/ofont.ru_Bohema-Pink.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Kontrabanda';
   src: url('fonts/ofont.ru_Kontrabanda.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
@@ -7,16 +15,8 @@
 }
 
 @font-face {
-  font-family: 'STChertyTest';
+  font-family: 'STCherty';
   src: url('fonts/ofont.ru_ST-Cherty.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'BohemaPinkTest';
-  src: url('fonts/ofont.ru_Bohema-Pink.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;

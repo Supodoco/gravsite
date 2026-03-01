@@ -31,5 +31,11 @@
   {"name": "Cyrillic Old",    "family": "'CyrillicOld', serif"},
   {"name": "Corrida",         "family": "'Corrida', serif"},
   {"name": "DS Arabic",       "family": "'DSArabic', serif"},
-  {"name": "JakobCTT",        "family": "'JakobCTT', serif"}
+  {"name": "JakobCTT",        "family": "'JakobCTT', serif"},
+
+  {"name": "Helvetica Neue Thin",        "family": "'HelveticaNeueThin', sans-serif"},
+  {"name": "Helvetica Neue Thin Italic", "family": "'HelveticaNeueThinItalic', sans-serif"},
+  {"name": "Helvetica Neue Medium",      "family": "'HelveticaNeueMedium', sans-serif"},
+  {"name": "Helvetica Neue Medium Italic","family": "'HelveticaNeueMediumItalic', sans-serif"}
+]
 ]

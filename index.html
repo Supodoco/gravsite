@@ -238,20 +238,25 @@
       });
 
     function renderPreviews(text) {
-      const displayText = text.trim() || 'Александр Сергеевич';
-      container.innerHTML = '';
-      fonts.forEach(font => {
-        const card = document.createElement('div');
-        card.className = 'card';
-        card.innerHTML = `
-          <div class="engraved" style="font-family: ${font.family} !important;">
-            ${displayText}
-          </div>
-          <div class="font-name">${font.name}</div>
-        `;
-        container.appendChild(card);
-      });
-    }
+  const displayText = text.trim() || 'Александр Сергеевич';
+  container.innerHTML = '';
+  fonts.forEach(font => {
+    let style = `font-family: ${font.family} !important;`;
+    if (font.weight) style += ` font-weight: ${font.weight};`;
+    if (font.style)  style += ` font-style: ${font.style};`;
+
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="engraved" style="${style}">
+        ${displayText}
+      </div>
+      <div class="font-name">${font.name}</div>
+    `;
+    container.appendChild(card);
+  });
+}
+    
 
     function updateCharCount() {
       const length = input.value.length;

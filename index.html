@@ -237,13 +237,23 @@
         container.innerHTML = '<p style="color:red; text-align:center; grid-column:1/-1;">Ошибка загрузки списка шрифтов. Проверьте файл fonts-list.json</p>';
       });
 
-    function renderPreviews(text) {
+   function renderPreviews(text) {
   const displayText = text.trim() || 'Александр Сергеевич';
   container.innerHTML = '';
   fonts.forEach(font => {
     let style = `font-family: ${font.family} !important;`;
-    
-    // Если есть sizeFactor — применяем
+
+    // Поддержка жирности (weight)
+    if (font.weight) {
+      style += ` font-weight: ${font.weight} !important;`;
+    }
+
+    // Поддержка наклона (italic)
+    if (font.style) {
+      style += ` font-style: ${font.style} !important;`;
+    }
+
+    // Поддержка увеличения размера
     if (font.sizeFactor) {
       style += ` font-size: calc(2.4rem * ${font.sizeFactor}) !important;`;
     }

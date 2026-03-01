@@ -36,13 +36,18 @@
       margin-bottom: 0.5rem;
       letter-spacing: -1px;
     }
-    header p { font-size: 1.2rem; color: var(--gray); max-width: 560px; margin: 0 auto 1.5rem; }
+    header p { 
+      font-size: 1.2rem; 
+      color: var(--gray); 
+      max-width: 560px; 
+      margin: 0 auto 1.5rem; 
+    }
 
-    /* Стили кнопки "Заказать гравировку" */
+    /* Кнопка */
     .order-btn {
       display: inline-flex;
       align-items: center;
-      gap: 10px;
+      gap: 12px;
       padding: 14px 32px;
       font-size: 1.15rem;
       font-weight: 600;
@@ -53,7 +58,7 @@
       text-decoration: none;
       box-shadow: 0 6px 20px rgba(107, 72, 255, 0.25);
       transition: all 0.25s ease;
-      margin-bottom: 2.5rem;
+      margin-bottom: 0;           /* убрали отступ снизу */
     }
 
     .order-btn:hover {
@@ -63,8 +68,8 @@
     }
 
     .avito-icon {
-      width: 24px;
-      height: 24px;
+      width: 48px;                /* было 24px → стало 48px */
+      height: 48px;
       object-fit: contain;
     }
 
@@ -101,6 +106,7 @@
       .engraved { font-size: 2rem; }
       input { font-size: 1.4rem; padding: 1rem 1.5rem; }
       .order-btn { padding: 12px 28px; font-size: 1rem; }
+      .avito-icon { width: 36px; height: 36px; } /* чуть меньше на мобильных, чтобы не ломать кнопку */
     }
   </style>
 </head>
@@ -117,7 +123,7 @@
       <h1>Предпросмотр гравировки</h1>
       <p>Введите текст — и сразу посмотрите, как будет выглядеть надпись разными шрифтами</p>
 
-      <!-- Кнопка "Заказать гравировку" с иконкой из файла avito.svg -->
+      <!-- Кнопка с увеличенной иконкой avito.svg -->
       <a href="https://www.avito.ru/brands/50e25f9bda2c5d592335a36162dd761b" 
          target="_blank" 
          rel="noopener noreferrer" 

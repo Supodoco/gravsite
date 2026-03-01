@@ -94,8 +94,6 @@
   font-display: swap;
 }
 
-/* Новые шрифты */
-
 @font-face {
   font-family: 'Anastasia';
   src: url('fonts/ofont.ru_Anastasia.ttf') format('truetype');
@@ -221,5 +219,39 @@
   src: url('fonts/ofont.ru_Xiomara.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
+}
+
+/* Новые шрифты Helvetica Neue */
+
+@font-face {
+  font-family: 'HelveticaNeueThin';
+  src: url('fonts/ofont.ru_Helvetica Neue Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'HelveticaNeueThinItalic';
+  src: url('fonts/ofont.ru_Helvetica Neue Thin Italic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'HelveticaNeueMedium';
+  src: url('fonts/ofont.ru_Helvetica Neue Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'HelveticaNeueMediumItalic';
+  src: url('fonts/ofont.ru_Helvetica Neue Medium Italic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
   font-display: swap;
 }

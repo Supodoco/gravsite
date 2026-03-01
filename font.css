@@ -1,22 +1,22 @@
 @font-face {
-  font-family: 'Bohema Pink';
-  src: url('fonts/ofont.ru_Bohema Pink.ttf') format('truetype');
+  font-family: 'BohemaPinkTest';
+  src: url('/fonts/ofont.ru_Bohema Pink.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Kontrabanda';
-  src: url('fonts/ofont.ru_Kontrabanda.ttf') format('truetype');
+  font-family: 'KontrabandaTest';
+  src: url('/fonts/ofont.ru_Kontrabanda.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'ST Cherty';
-  src: url('fonts/ofont.ru_ST-Cherty.ttf') format('truetype');
+  font-family: 'STChertyTest';
+  src: url('/fonts/ofont.ru_ST-Cherty.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;

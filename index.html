@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Гравировка на ручке — предпросмотр</title>
+  <title>Предпросмотр гравировки</title>
 
   <!-- Подключаем локальные шрифты -->
   <link rel="stylesheet" href="fonts.css">
@@ -80,18 +80,24 @@
 
   <div class="container">
     <header>
-      <h1>Гравировка на ручке</h1>
-      <p>Введи текст — и сразу увидишь, как будет выглядеть надпись разными шрифтами</p>
+      <h1>Предпросмотр гравировки</h1>
+      <p>Введите текст — и сразу посмотрите, как будет выглядеть надпись разными шрифтами</p>
     </header>
 
     <div class="input-area">
-      <input type="text" id="engraveText" value="ИП ИВАНОВ" placeholder="Текст для гравировки..." maxlength="35" />
+      <input
+        type="text"
+        id="engraveText"
+        value="Александр Сергеевич"
+        placeholder="Текст для гравировки..."
+        maxlength="35"
+      />
       <div class="char-count" id="charCount">0 / 35</div>
     </div>
 
     <div class="previews" id="previews"></div>
 
-    <footer>Сделано в стиле Corporate Memphis • 2026</footer>
+    <footer>Альберт • Авито • Гравировка • 2026</footer>
   </div>
 
   <script>
@@ -106,7 +112,7 @@
     const container = document.getElementById('previews');
 
     function renderPreviews(text) {
-      const displayText = text.trim() || 'ИП ИВАНОВ';
+      const displayText = text.trim() || 'Александр Сергеевич';
       container.innerHTML = '';
       fonts.forEach(font => {
         const card = document.createElement('div');

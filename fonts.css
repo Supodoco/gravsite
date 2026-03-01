@@ -23,32 +23,6 @@
 }
 
 @font-face {
-  font-family: 'Downtown';
-  src: url('fonts/ofont.ru_Downtown.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Wolgadeutsche';
-  src: url('fonts/ofont.ru_Wolgadeutsche.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Ebbe';
-  src: url('fonts/ofont.ru_Ebbe.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Новые шрифты ↓ */
-
-@font-face {
   font-family: 'AdventureIndiana';
   src: url('fonts/ofont.ru_Adventure-Indiana.ttf') format('truetype');
   font-weight: normal;
@@ -91,6 +65,30 @@
 @font-face {
   font-family: 'Sriracha';
   src: url('fonts/ofont.ru_Sriracha.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Wolgadeutsche';
+  src: url('fonts/ofont.ru_Wolgadeutsche.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ebbe';
+  src: url('fonts/ofont.ru_Ebbe.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Downtown';
+  src: url('fonts/ofont.ru_Downtown.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;

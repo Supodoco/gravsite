@@ -1,19 +1,15 @@
 [
-  // 1. Рукописные / каллиграфические / подпись
   {"name": "Bohema Pink",     "family": "'BohemaPink', cursive"},
   {"name": "Ebbe",            "family": "'Ebbe', cursive"},
   {"name": "Sriracha",        "family": "'Sriracha', cursive"},
 
-  // 2. Винтаж / ретро / приключенческие
   {"name": "Adventure Indiana","family": "'AdventureIndiana', cursive"},
   {"name": "Downtown",        "family": "'Downtown', cursive"},
   {"name": "Maratype",        "family": "'Maratype', cursive"},
 
-  // 3. Уличные / граффити / гетто-стиль
   {"name": "South Ghetto",    "family": "'SouthGhetto', cursive"},
   {"name": "Plup",            "family": "'Plup', cursive"},
 
-  // 4. Этнические / исторические / готические
   {"name": "Wolgadeutsche",   "family": "'Wolgadeutsche', cursive"},
   {"name": "Kontrabanda",     "family": "'Kontrabanda', cursive"},
   {"name": "ST Cherty",       "family": "'STCherty', cursive"},

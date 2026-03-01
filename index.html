@@ -242,8 +242,11 @@
   container.innerHTML = '';
   fonts.forEach(font => {
     let style = `font-family: ${font.family} !important;`;
-    if (font.weight) style += ` font-weight: ${font.weight};`;
-    if (font.style)  style += ` font-style: ${font.style};`;
+    
+    // Если есть sizeFactor — применяем
+    if (font.sizeFactor) {
+      style += ` font-size: calc(2.4rem * ${font.sizeFactor}) !important;`;
+    }
 
     const card = document.createElement('div');
     card.className = 'card';

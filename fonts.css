@@ -93,3 +93,133 @@
   font-style: normal;
   font-display: swap;
 }
+
+/* Новые шрифты */
+
+@font-face {
+  font-family: 'Anastasia';
+  src: url('fonts/ofont.ru_Anastasia.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ariston';
+  src: url('fonts/ofont.ru_Ariston.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Carolina';
+  src: url('fonts/ofont.ru_Carolina.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cassandra';
+  src: url('fonts/ofont.ru_Cassandra.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CGTimesCyr';
+  src: url('fonts/ofont.ru_CG Times Cyr.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Corrida';
+  src: url('fonts/ofont.ru_Corrida.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CyrillicOld';
+  src: url('fonts/ofont.ru_Cyrillic Old.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DSArabic';
+  src: url('fonts/ofont.ru_DS Arabic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JakobCTT';
+  src: url('fonts/ofont.ru_JakobCTT.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LavanderiaC';
+  src: url('fonts/ofont.ru_LavanderiaC.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Melba';
+  src: url('fonts/ofont.ru_Melba.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MetroModern';
+  src: url('fonts/ofont.ru_Metro Modern.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MonAmourOne';
+  src: url('fonts/ofont.ru_Mon Amour One.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nikoleta';
+  src: url('fonts/ofont.ru_Nikoleta.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'RoundScript';
+  src: url('fonts/ofont.ru_Round Script.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Xiomara';
+  src: url('fonts/ofont.ru_Xiomara.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

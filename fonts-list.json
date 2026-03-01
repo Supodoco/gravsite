@@ -30,7 +30,6 @@
   {"name": "CG Times Cyr",    "family": "'CGTimesCyr', serif"},
   {"name": "Cyrillic Old",    "family": "'CyrillicOld', serif"},
   {"name": "Corrida",         "family": "'Corrida', serif"},
-  {"name": "DS Arabic",       "family": "'DSArabic', serif"},
   {"name": "DS Arabic",       "family": "'DSArabic', serif",  "sizeFactor": 1.35 },
   {"name": "JakobCTT",        "family": "'JakobCTT', serif"},
 

@@ -21,3 +21,11 @@
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Downtown';
+  src: url('fonts/ofont.ru_Downtown.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

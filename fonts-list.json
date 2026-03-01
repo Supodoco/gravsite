@@ -10,27 +10,27 @@
   {"name": "Xiomara",         "family": "'Xiomara', cursive"},
   {"name": "Anastasia",       "family": "'Anastasia', cursive",  "sizeFactor": 1.35},
   {"name": "Carolina",        "family": "'Carolina', cursive",  "sizeFactor": 1.35},
-  {"name": "Cassandra",       "family": "'Cassandra', cursive"},
+  {"name": "Cassandra",       "family": "'Cassandra', cursive",  "sizeFactor": 1.15 },
 
   {"name": "Adventure Indiana","family": "'AdventureIndiana', cursive"},
   {"name": "Downtown",        "family": "'Downtown', cursive"},
   {"name": "Maratype",        "family": "'Maratype', cursive"},
   {"name": "Melba",           "family": "'Melba', cursive"},
-  {"name": "Ariston",         "family": "'Ariston', cursive"},
+  {"name": "Ariston",         "family": "'Ariston', cursive",  "sizeFactor": 1.15 },
 
   {"name": "Plup",            "family": "'Plup', cursive"},
   {"name": "Soledago",        "family": "'Soledago', cursive"},
   {"name": "Metro Modern",    "family": "'MetroModern', cursive"},
 
   {"name": "South Ghetto",    "family": "'SouthGhetto', cursive"},
-  {"name": "Kontrabanda",     "family": "'Kontrabanda', cursive"},
+  {"name": "Kontrabanda",     "family": "'Kontrabanda', cursive",  "sizeFactor": 1.25 },
 
   {"name": "Wolgadeutsche",   "family": "'Wolgadeutsche', cursive"},
   {"name": "ST Cherty",       "family": "'STCherty', cursive"},
   {"name": "CG Times Cyr",    "family": "'CGTimesCyr', serif"},
   {"name": "Cyrillic Old",    "family": "'CyrillicOld', serif"},
   {"name": "Corrida",         "family": "'Corrida', serif"},
-  {"name": "DS Arabic",       "family": "'DSArabic', serif",  "sizeFactor": 1.35 },
+  {"name": "DS Arabic",       "family": "'DSArabic', serif",  "sizeFactor": 1.45 },
   {"name": "JakobCTT",        "family": "'JakobCTT', serif"},
 
   {"name": "Helvetica Neue Thin",          "family": "'HelveticaNeue', sans-serif", "weight": 100},

@@ -1,17 +1,35 @@
 [
+
   {"name": "Bohema Pink",     "family": "'BohemaPink', cursive"},
   {"name": "Ebbe",            "family": "'Ebbe', cursive"},
   {"name": "Sriracha",        "family": "'Sriracha', cursive"},
+  {"name": "LavanderiaC",     "family": "'LavanderiaC', cursive"},
+  {"name": "Nikoleta",        "family": "'Nikoleta', cursive"},
+  {"name": "Mon Amour One",   "family": "'MonAmourOne', cursive"},
+  {"name": "Round Script",    "family": "'RoundScript', cursive"},
+  {"name": "Xiomara",         "family": "'Xiomara', cursive"},
+  {"name": "Anastasia",       "family": "'Anastasia', cursive"},
+  {"name": "Carolina",        "family": "'Carolina', cursive"},
+  {"name": "Cassandra",       "family": "'Cassandra', cursive"},
 
   {"name": "Adventure Indiana","family": "'AdventureIndiana', cursive"},
   {"name": "Downtown",        "family": "'Downtown', cursive"},
   {"name": "Maratype",        "family": "'Maratype', cursive"},
+  {"name": "Melba",           "family": "'Melba', cursive"},
+  {"name": "Ariston",         "family": "'Ariston', cursive"},
+
+  {"name": "Plup",            "family": "'Plup', cursive"},
+  {"name": "Soledago",        "family": "'Soledago', cursive"},
+  {"name": "Metro Modern",    "family": "'MetroModern', cursive"},
 
   {"name": "South Ghetto",    "family": "'SouthGhetto', cursive"},
-  {"name": "Plup",            "family": "'Plup', cursive"},
+  {"name": "Kontrabanda",     "family": "'Kontrabanda', cursive"},
 
   {"name": "Wolgadeutsche",   "family": "'Wolgadeutsche', cursive"},
-  {"name": "Kontrabanda",     "family": "'Kontrabanda', cursive"},
   {"name": "ST Cherty",       "family": "'STCherty', cursive"},
-  {"name": "Soledago",        "family": "'Soledago', cursive"}
+  {"name": "CG Times Cyr",    "family": "'CGTimesCyr', serif"},
+  {"name": "Cyrillic Old",    "family": "'CyrillicOld', serif"},
+  {"name": "Corrida",         "family": "'Corrida', serif"},
+  {"name": "DS Arabic",       "family": "'DSArabic', serif"},
+  {"name": "JakobCTT",        "family": "'JakobCTT', serif"}
 ]

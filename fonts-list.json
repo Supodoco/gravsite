@@ -1,50 +1,14 @@
 [
-  {
-    "name": "Bohema Pink",
-    "family": "'BohemaPink', cursive"
-  },
-  {
-    "name": "Kontrabanda",
-    "family": "'Kontrabanda', cursive"
-  },
-  {
-    "name": "ST Cherty",
-    "family": "'STCherty', cursive"
-  },
-  {
-    "name": "Downtown",
-    "family": "'Downtown', cursive"
-  },
-  {
-    "name": "Wolgadeutsche",
-    "family": "'Wolgadeutsche', cursive"
-  },
-  {
-    "name": "Ebbe",
-    "family": "'Ebbe', cursive"
-  },
-  {
-    "name": "Adventure Indiana",
-    "family": "'AdventureIndiana', cursive"
-  },
-  {
-    "name": "Maratype",
-    "family": "'Maratype', cursive"
-  },
-  {
-    "name": "Plup",
-    "family": "'Plup', cursive"
-  },
-  {
-    "name": "Soledago",
-    "family": "'Soledago', cursive"
-  },
-  {
-    "name": "South Ghetto",
-    "family": "'SouthGhetto', cursive"
-  },
-  {
-    "name": "Sriracha",
-    "family": "'Sriracha', cursive"
-  }
+  {"name": "Bohema Pink",     "family": "'BohemaPink', cursive"},
+  {"name": "Kontrabanda",     "family": "'Kontrabanda', cursive"},
+  {"name": "ST Cherty",       "family": "'STCherty', cursive"},
+  {"name": "Adventure Indiana","family": "'AdventureIndiana', cursive"},
+  {"name": "Maratype",        "family": "'Maratype', cursive"},
+  {"name": "Plup",            "family": "'Plup', cursive"},
+  {"name": "Soledago",        "family": "'Soledago', cursive"},
+  {"name": "South Ghetto",    "family": "'SouthGhetto', cursive"},
+  {"name": "Sriracha",        "family": "'Sriracha', cursive"},
+  {"name": "Wolgadeutsche",   "family": "'Wolgadeutsche', cursive"},
+  {"name": "Ebbe",            "family": "'Ebbe', cursive"},
+  {"name": "Downtown",        "family": "'Downtown', cursive"}
 ]

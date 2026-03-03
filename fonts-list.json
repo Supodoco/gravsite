@@ -11,12 +11,12 @@
   {"name": "Anastasia",       "family": "'Anastasia', cursive",  "sizeFactor": 1.35},
   {"name": "Carolina",        "family": "'Carolina', cursive",  "sizeFactor": 1.35},
   {"name": "Cassandra",       "family": "'Cassandra', cursive",  "sizeFactor": 1.15 },
+  {"name": "Ariston",         "family": "'Ariston', cursive",  "sizeFactor": 1.15 },
 
   {"name": "Adventure Indiana","family": "'AdventureIndiana', cursive"},
   {"name": "Downtown",        "family": "'Downtown', cursive"},
   {"name": "Maratype",        "family": "'Maratype', cursive"},
   {"name": "Melba",           "family": "'Melba', cursive"},
-  {"name": "Ariston",         "family": "'Ariston', cursive",  "sizeFactor": 1.15 },
 
   {"name": "Plup",            "family": "'Plup', cursive"},
   {"name": "Soledago",        "family": "'Soledago', cursive"},

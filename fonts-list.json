@@ -22,7 +22,7 @@
   {"name": "Soledago",        "family": "'Soledago', cursive"},
   {"name": "Metro Modern",    "family": "'MetroModern', cursive"},
 
-  {"name": "South Ghetto",    "family": "'SouthGhetto', cursive",  "sizeFactor": 1.1 },
+  {"name": "South Ghetto",    "family": "'SouthGhetto', cursive",  "sizeFactor": 0.92 },
   {"name": "Kontrabanda",     "family": "'Kontrabanda', cursive",  "sizeFactor": 1.25 },
 
   {"name": "Wolgadeutsche",   "family": "'Wolgadeutsche', cursive"},
